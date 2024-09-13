@@ -20,6 +20,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0782-jewels-and-stones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3379-score-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
