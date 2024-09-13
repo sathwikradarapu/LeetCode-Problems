@@ -56,9 +56,4 @@ class Solution:
                 # if you have reached the end of word increament validwords  
                 if i == len(word)-1:
                     validWords +=1
-                    
-                
-            
-        
-        
         return validWords
