@@ -6,9 +6,9 @@ class Solution:
                 hash_map[nums[i]] += 1
             else:
                 hash_map[nums[i]] = 1
-
-        # Sort the hash_map by values in descending order
-        sorted_hash_map = dict(sorted(hash_map.items(), key=lambda item: item[1], reverse=True))
-        ans = list(sorted_hash_map.keys())[:k]
+        sorted_hash_map=dict(sorted(hash_map.items(),key=lambda item:item[1],reverse=True ))
+        ans=list(sorted_hash_map.keys())[:k]
         return ans
+
+        
         
