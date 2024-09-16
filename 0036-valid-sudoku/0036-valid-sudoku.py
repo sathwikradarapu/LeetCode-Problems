@@ -1,37 +1,33 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # Initialize dictionaries to keep track of seen numbers
-        rows = {i: set() for i in range(9)}       # HashMap for rows
-        columns = {j: set() for j in range(9)}    # HashMap for columns
-        boxes = {k: set() for k in range(9)}      # HashMap for boxes
+        row={i:set() for i in range(9)}
+        column={i:set() for i in range(9)}
+        box={i:set() for i in range(9)}
 
-        # Checking rows
         for i in range(9):
             for j in range(9):
-                num = board[i][j]
-                if num != '.':
-                    if num in rows[i]:
+                ele=board[i][j]
+                if ele!='.':
+                    if ele in row[i]:
                         return False
-                    rows[i].add(num)
-        
-        # Checking columns
+                    else:
+                        row[i].add(ele)
         for j in range(9):
             for i in range(9):
-                num = board[i][j]
-                if num != '.':
-                    if num in columns[j]:
+                ele=board[i][j]
+                if ele!='.':
+                    if ele in column[j]:
                         return False
-                    columns[j].add(num)
-        
-        # Checking boxes
+                    else:
+                        column[j].add(ele)
         for i in range(9):
             for j in range(9):
-                num = board[i][j]
-                if num != '.':
-                    box_index = 3 * (i // 3) + (j // 3)
-                    if num in boxes[box_index]:
+                ele=board[i][j]
+                if ele!='.':
+                    index=3*(i//3)+(j//3)
+                    if ele in box[index]:
                         return False
-                    boxes[box_index].add(num)
-
+                    else:
+                        box[index].add(ele)
         return True
             
