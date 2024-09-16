@@ -11,14 +11,12 @@ class Solution:
             prefix[i]=prefix[i-1]*nums[i]
         for i in range(n-2,-1,-1):
             suffix[i]=suffix[i+1]*nums[i]
-        nums=prefix
-        output=suffix
         for i in range(n):
             if i!=0 and i!=(n-1):
-                output[i]=nums[i-1]*output[i+1]
+                output[i]=prefix[i-1]*suffix[i+1]
             elif i==0:
-                output[i]=output[i+1]
+                output[i]=suffix[i+1]
             else:
-                output[i]=nums[i-1]
+                output[i]=prefix[i-1]
         return output
                 
