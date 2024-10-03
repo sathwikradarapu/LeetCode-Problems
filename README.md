@@ -16,6 +16,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0219-contains-duplicate-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
