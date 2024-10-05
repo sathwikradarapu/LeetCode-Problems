@@ -1,8 +1,11 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        count=0
-        for i in jewels:
-            for j in stones:
-                if j==i:
-                    count+=1
-        return count
+        hash_map={}
+        for i in stones:
+            if i in jewels:
+                if i in hash_map:
+                    hash_map[i]+=1
+                else:
+                    hash_map[i]=1
+        return sum(hash_map.values())
+        
