@@ -17,6 +17,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0219-contains-duplicate-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -51,6 +52,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0242-valid-anagram](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -64,6 +66,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0217-contains-duplicate](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -132,4 +135,8 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
