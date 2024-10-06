@@ -1,18 +1,13 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int: 
-        copyS = s
-        # print(copyS)
-        n = len(s)
-        i = 0
-        while True:
-            if s[0] not in s[1:]:
-                return copyS.index(s[0])
+        hash_map={}
+        for i in range(len(s)):
+            if s[i] in hash_map:
+                hash_map[s[i]]+=1
             else:
-                s = s.replace(s[i], '')
-                # print(s)
-                n = len(s)
-                if n == 1:
-                    # print(s[0])
-                    return copyS.index(s[0])
-                elif n == 0:
-                    return -1
+                hash_map[s[i]]=1
+        for i in hash_map:
+            if hash_map[i]==1:
+                return s.index(i)
+        return -1
+                
