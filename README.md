@@ -18,6 +18,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -76,6 +77,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0217-contains-duplicate](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -98,6 +100,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
@@ -159,4 +162,8 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
