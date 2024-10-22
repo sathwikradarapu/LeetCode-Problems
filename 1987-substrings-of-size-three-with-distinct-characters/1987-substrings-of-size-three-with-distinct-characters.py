@@ -1,11 +1,16 @@
 class Solution:
     def countGoodSubstrings(self, s: str) -> int:
-        v=0
-        for i in range(len(s)):
-            for j in range(i+1,len(s)+1):
-                t=s[i:j]
-                if len(t)==3:
-                    u=set(t)
-                    if len(u)==3:
-                        v+=1
-        return v
+        n=len(s)
+        l=0
+        temp=""
+        k=3
+        c=0
+        for r in range(n):
+            temp+=s[r]
+            if r-l==k:
+                temp=temp[1:]
+                l+=1
+            if r-l+1==k:
+                if len(set(temp))==k:
+                    c+=1
+        return c
