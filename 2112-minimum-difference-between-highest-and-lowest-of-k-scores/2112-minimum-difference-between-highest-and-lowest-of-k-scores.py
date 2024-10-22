@@ -14,5 +14,5 @@ class Solution:
                     li.pop(0)
                     l+=1
                 if r-l+1==k:
-                    ans=min(ans,max(li)-min(li))
+                    ans=min(ans,nums[r]-nums[l])
         return ans
