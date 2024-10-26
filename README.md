@@ -28,6 +28,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
@@ -81,6 +82,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | ------- |
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
