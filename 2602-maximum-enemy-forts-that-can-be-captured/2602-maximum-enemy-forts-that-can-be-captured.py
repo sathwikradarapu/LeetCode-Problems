@@ -2,16 +2,11 @@ from typing import List
 
 class Solution:
     def captureForts(self, forts: List[int]) -> int:
-        ans = 0
-        last = None
-
+        ans=0
+        last=-1
         for i in range(len(forts)):
-            # Check when we encounter a fort occupied by an army (1 or -1)
-            if forts[i] == 1 or forts[i] == -1:
-                # If there's a previous fort position, calculate the distance
-                if last is not None and forts[i] != forts[last]:
-                    ans = max(ans, i - last - 1)
-                # Update last position
-                last = i
-
+            if forts[i]==1 or forts[i]==-1:
+                if last!=-1 and forts[i]!=forts[last]:
+                    ans=max(ans,i-last-1)
+                last=i
         return ans
