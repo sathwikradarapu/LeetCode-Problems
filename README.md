@@ -33,6 +33,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
