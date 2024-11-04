@@ -59,6 +59,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
@@ -87,6 +88,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -168,6 +170,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -197,6 +200,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
