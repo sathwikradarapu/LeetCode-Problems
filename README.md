@@ -40,6 +40,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
