@@ -48,6 +48,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
@@ -75,6 +76,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0217-contains-duplicate](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
