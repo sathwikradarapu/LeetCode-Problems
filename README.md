@@ -38,6 +38,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -92,6 +93,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 ## Quickselect
 |  |
 | ------- |
