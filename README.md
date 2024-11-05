@@ -127,6 +127,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | ------- |
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
@@ -226,4 +227,8 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
