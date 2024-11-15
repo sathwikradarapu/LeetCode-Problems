@@ -1,15 +1,18 @@
-from typing import List
-
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        result = {}
-        p_sorted = "".join(sorted(p))  # Sort `p` only once
-        for i in range(len(s) - len(p) + 1):  # Fix the range to check the last substring
-            new_string = "".join(sorted(s[i:i + len(p)]))  # Sort the current window
-            if new_string == p_sorted:
-                if new_string not in result:
-                    result[new_string]=[i]  # Append the starting index if an anagram is found
-                else:
-                    result[new_string].append(i)
-        for i in result.values():
-            return i
+        l=0
+        temp1=""
+        temp2=""
+        p=sorted(p)
+        ans=[]
+        for r in range(len(s)):
+            temp1+=s[r]
+            if r-l==len(p):
+                temp1=temp1[1:]
+                l+=1
+            if r-l+1==len(p):
+                temp2=temp1
+                temp2=sorted(temp2)
+                if p==temp2:
+                    ans.append(l)
+        return ans
