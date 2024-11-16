@@ -32,6 +32,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -103,6 +104,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -152,6 +154,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -214,6 +217,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0209-minimum-size-subarray-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
@@ -227,6 +231,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
