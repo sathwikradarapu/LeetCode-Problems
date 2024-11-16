@@ -16,4 +16,7 @@ class Solution:
                 ans=max(ans,r-l+1)
                 count+=r-l+1
             return count
-        return atMostK(nums,k)-atMostK(nums,k-1)
+        a=atMostK(nums,k)
+        b=atMostK(nums,k-1)
+        c=a-b
+        return c
