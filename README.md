@@ -29,6 +29,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
@@ -105,6 +106,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -156,6 +158,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -206,6 +209,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
