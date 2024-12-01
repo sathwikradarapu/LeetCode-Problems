@@ -10,6 +10,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -191,11 +192,13 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
