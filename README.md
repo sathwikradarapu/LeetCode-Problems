@@ -40,6 +40,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2211-k-radius-subarray-averages](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2211-k-radius-subarray-averages) |
