@@ -43,6 +43,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -118,6 +119,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -227,6 +229,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 ## Quickselect
@@ -256,6 +259,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -279,4 +283,8 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
