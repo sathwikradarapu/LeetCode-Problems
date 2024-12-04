@@ -58,6 +58,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -249,6 +250,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
