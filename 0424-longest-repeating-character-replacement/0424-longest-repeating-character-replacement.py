@@ -1,23 +1,24 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        left = 0
-        max_count = 0
-        char_count = {}
-        max_length = 0
+        from collections import defaultdict
 
-        for right in range(len(s)):
-            char = s[right]
-            char_count[char] = char_count.get(char, 0) + 1
-            max_count = max(max_count, char_count[char])
+        l = 0
+        n = len(s)
+        freq = defaultdict(int)
+        max_freq = 0  # Maximum frequency of any character in the current window
+        ans = 0
 
-            # Current window size is (right - left + 1)
-            # If we need to replace more than k characters to make all characters same
-            if (right - left + 1) - max_count > k:
-                # Shrink the window
-                char_count[s[left]] -= 1
-                left += 1
+        for r in range(n):
+            freq[s[r]] += 1
+            max_freq = max(max_freq, freq[s[r]])
 
-            # Update max_length
-            max_length = max(max_length, right - left + 1)
-        
-        return max_length
+            # If the number of changes required exceeds k, shrink the window
+            while (r - l + 1) - max_freq > k:
+                freq[s[l]] -= 1
+                l += 1
+
+            ans = max(ans, r - l + 1)
+
+        return ans
+
+
