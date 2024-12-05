@@ -5,7 +5,6 @@ class Solution:
         max_length = 0
 
         for right in range(len(nums)):
-            
             while (bitmask & nums[right]) != 0:  # If new element violates "nice" condition
                 bitmask ^= nums[left]  # Remove nums[left] from current bitmask
                 left += 1  # Shrink window
