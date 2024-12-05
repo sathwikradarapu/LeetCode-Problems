@@ -56,6 +56,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -189,6 +190,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Queue
 |  |
 | ------- |
