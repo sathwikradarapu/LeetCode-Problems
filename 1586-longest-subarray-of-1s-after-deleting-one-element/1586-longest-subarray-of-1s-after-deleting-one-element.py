@@ -16,6 +16,6 @@ class Solution:
                 left += 1
 
             # Calculate the max length excluding one element
-            max_length = max(max_length, right - left+1)
+            max_length = max(max_length, right - left)
         
-        return max_length-1
+        return max_length
