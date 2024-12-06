@@ -56,6 +56,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
@@ -130,6 +131,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -194,6 +196,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
