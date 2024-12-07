@@ -69,6 +69,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +280,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
