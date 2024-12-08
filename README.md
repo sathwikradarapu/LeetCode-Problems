@@ -7,6 +7,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -172,6 +173,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
