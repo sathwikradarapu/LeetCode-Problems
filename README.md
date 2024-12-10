@@ -7,6 +7,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
@@ -177,6 +178,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -230,6 +232,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
