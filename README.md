@@ -12,6 +12,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -181,6 +182,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 | [0011-container-with-most-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -254,6 +256,7 @@ This repository contains all the problems I have solved on the LeetCode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -345,4 +348,12 @@ This repository contains all the problems I have solved on the LeetCode platform
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
