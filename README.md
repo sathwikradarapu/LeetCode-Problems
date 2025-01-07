@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
