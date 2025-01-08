@@ -51,6 +51,7 @@
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2058-concatenation-of-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -337,6 +338,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
