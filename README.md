@@ -37,6 +37,7 @@
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -183,6 +184,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -203,6 +205,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
