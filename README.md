@@ -55,6 +55,7 @@
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -110,6 +111,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
