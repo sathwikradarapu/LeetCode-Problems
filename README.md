@@ -44,6 +44,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -108,6 +109,7 @@
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -156,6 +158,7 @@
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -318,6 +321,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
