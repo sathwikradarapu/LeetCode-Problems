@@ -354,6 +354,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -368,6 +369,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -415,4 +417,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
