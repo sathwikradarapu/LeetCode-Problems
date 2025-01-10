@@ -287,6 +287,7 @@
 | ------- |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
+| [1806-count-of-matches-in-tournament](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -368,6 +369,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
