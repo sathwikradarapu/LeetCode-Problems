@@ -118,6 +118,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
@@ -356,6 +357,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
