@@ -62,6 +62,7 @@
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -202,6 +203,7 @@
 | [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
