@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
