@@ -83,6 +83,7 @@
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2756-buy-two-chocolates](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -209,6 +210,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2756-buy-two-chocolates](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -284,6 +286,7 @@
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
+| [2756-buy-two-chocolates](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
