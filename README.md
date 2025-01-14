@@ -75,6 +75,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2211-k-radius-subarray-averages](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -134,6 +135,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -241,6 +243,7 @@
 | [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
