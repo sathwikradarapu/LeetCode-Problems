@@ -122,6 +122,7 @@
 | [1547-destination-city](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1619-path-crossing) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
