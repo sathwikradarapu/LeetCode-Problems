@@ -121,6 +121,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
@@ -177,6 +178,7 @@
 | [1547-destination-city](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
