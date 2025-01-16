@@ -6,7 +6,7 @@ class Solution:
         for x in s:
             if x==' ' and len(res)==0:
                 continue
-            elif (x in sign or x in num) and len(res)==0:
+            elif (x in sign) and len(res)==0:
                 res+=x
             elif x in num:
                 res+=x
