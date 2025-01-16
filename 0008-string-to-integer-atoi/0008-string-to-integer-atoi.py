@@ -8,7 +8,11 @@ class Solution:
                 continue
             elif (x in sign) and len(res)==0:
                 res+=x
-            elif x in num:
+            elif (x in num) and x!=0:
+                res+=x
+            elif (x in num) and x==0 and (res in sign):
+                continue
+            elif (x in num) and x==0:
                 res+=x
             else:
                 break
