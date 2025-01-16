@@ -1,11 +1,15 @@
+from typing import List
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hash_map={}
-        res=[]
-        for i in strs:
-            j=" ".join(sorted(i))
-            if j in hash_map:
-                hash_map[j].append(i)
+        hash_map = {}
+        for word in strs:
+            # Sort the word and use it as a key
+            sorted_word = "".join(sorted(word))
+            if sorted_word in hash_map:
+                hash_map[sorted_word].append(word)
             else:
-                hash_map[j]=[i]
-        return hash_map.values()
+                hash_map[sorted_word] = [word]
+        
+        # Convert dict_values to a list
+        return list(hash_map.values())
