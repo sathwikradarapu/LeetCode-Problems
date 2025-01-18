@@ -1,13 +1,18 @@
+from typing import List
+
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        wordSet = set(wordDict)  # Convert list to set for faster lookup
         dp = [False] * (len(s) + 1)
-        dp[0] = True  # Base case: empty string
+        dp[len(s)] = True  # Base case for empty string
         
-        for i in range(1, len(s) + 1):
-            for j in range(i):
-                if dp[j] and s[j:i] in wordSet:
-                    dp[i] = True
+        for i in range(len(s) - 1, -1, -1):
+            for word in wordDict:
+                # Check if the word fits in the substring starting at i
+                if i + len(word) <= len(s) and s[i:i+len(word)] == word:
+                    dp[i] = dp[i + len(word)]
+                if dp[i]:  # If dp[i] becomes True, no need to check further
                     break
         
-        return dp[len(s)]
+        return dp[0]
+
+
