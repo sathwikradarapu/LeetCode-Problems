@@ -3,7 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(k):
-            a=nums.pop()
-            nums.insert(0,a)
-        return nums
+        n = len(nums)
+        if n == 0:
+            return  # Handle empty list case
+        k %= n  # To handle cases where k > n
+        nums[:] = nums[-k:] + nums[:-k]  # Rotate the list in one step
