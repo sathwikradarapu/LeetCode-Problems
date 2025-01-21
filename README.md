@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0278-first-bad-version) |
@@ -417,6 +419,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1677-matrix-diagonal-sum) |
