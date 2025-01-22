@@ -1,17 +1,16 @@
 class Solution:
-    def subarrayBitwiseORs(self, arr):
-        # Store all the unique OR results
-        unique_results = set()
+    def subarrayBitwiseORs(self, A: List[int]) -> int:
+        my_set = set(A)
+        curr = 0
+        prev = set()
+        prev.add(A[0])
+        for num in A[1:]:
+            temp = set()
+            for p in prev:
+                temp.add(num | p)
+                my_set.add(num | p)
+            prev = temp
+            prev.add(num)
+
+        return len(my_set)
         
-        # Store the OR results of the previous subarray
-        current_results = set()
-        
-        for num in arr:
-            # Update current results: OR the current number with all previous results
-            current_results = {num | x for x in current_results} | {num}
-            
-            # Add all results from current results to unique results
-            unique_results.update(current_results)
-        
-        # Return the total count of unique OR results
-        return len(unique_results)
