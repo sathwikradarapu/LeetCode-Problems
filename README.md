@@ -47,6 +47,7 @@
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -365,6 +366,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
@@ -463,6 +465,7 @@
 | [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Queue
