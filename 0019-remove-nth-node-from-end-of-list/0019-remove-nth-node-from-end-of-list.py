@@ -8,12 +8,11 @@ class Solution:
         dummy=ListNode(0,head)
         left=dummy
         right=head
-        while n>0 and right:
-            right=right.next
+        while right and n>0:
             n-=1
-        while right:
-            left=left.next
             right=right.next
-        nxt=left.next.next
-        left.next=nxt
+        while right:
+            right=right.next
+            left=left.next
+        left.next=left.next.next
         return dummy.next
