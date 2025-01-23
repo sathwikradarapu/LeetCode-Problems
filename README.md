@@ -266,6 +266,7 @@
 | [0165-compare-version-numbers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -495,6 +496,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -520,6 +522,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
@@ -535,4 +538,5 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
