@@ -516,6 +516,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## String Matching
@@ -526,4 +527,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
