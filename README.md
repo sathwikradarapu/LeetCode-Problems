@@ -513,6 +513,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
 ## Memoization
 |  |
@@ -545,4 +546,5 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
