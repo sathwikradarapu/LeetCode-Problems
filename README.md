@@ -174,6 +174,7 @@
 | [0076-minimum-window-substring](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -263,6 +264,7 @@
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -540,6 +542,7 @@
 | [0002-add-two-numbers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
