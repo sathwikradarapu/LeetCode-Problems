@@ -162,6 +162,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
+| [3055-maximum-odd-binary-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
@@ -348,6 +349,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2756-buy-two-chocolates](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -467,6 +469,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [3055-maximum-odd-binary-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
