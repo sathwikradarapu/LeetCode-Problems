@@ -13,17 +13,17 @@ class Solution:
         if not head:
             return head
         dummy=Node(0)
+        curr=dummy
         stack=[head]
-        cur=dummy
         while stack:
             temp=stack.pop()
             if temp.next:
                 stack.append(temp.next)
             if temp.child:
                 stack.append(temp.child)
-            cur.next=temp
-            temp.prev=cur
+            curr.next=temp
+            temp.prev=curr
             temp.child=None
-            cur=temp
+            curr=temp
         dummy.next.prev=None
         return dummy.next
