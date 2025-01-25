@@ -71,6 +71,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -371,6 +372,7 @@
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -496,6 +498,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting Sort
 |  |
 | ------- |
@@ -521,6 +524,7 @@
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1666-make-the-string-great](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
