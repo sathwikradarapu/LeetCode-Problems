@@ -54,6 +54,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -200,6 +201,7 @@
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -569,4 +571,8 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
