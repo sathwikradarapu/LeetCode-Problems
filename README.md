@@ -173,6 +173,7 @@
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -548,6 +549,7 @@
 | [0002-add-two-numbers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
