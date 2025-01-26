@@ -90,6 +90,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -162,6 +163,7 @@
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2406-decode-the-message](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -560,6 +562,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
 | ------- |
