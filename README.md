@@ -66,6 +66,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1547-destination-city) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -531,6 +532,7 @@
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Queue
 |  |
 | ------- |
