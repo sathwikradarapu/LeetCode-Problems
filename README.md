@@ -100,6 +100,7 @@
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2756-buy-two-chocolates](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -373,6 +374,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
