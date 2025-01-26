@@ -71,6 +71,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1755-defuse-the-bomb](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -341,6 +342,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
