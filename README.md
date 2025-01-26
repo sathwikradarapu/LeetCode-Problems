@@ -103,6 +103,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -170,6 +171,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [3055-maximum-odd-binary-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
@@ -563,10 +565,12 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -597,4 +601,12 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
