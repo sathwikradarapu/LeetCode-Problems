@@ -109,6 +109,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## String
@@ -375,6 +376,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -491,6 +494,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
