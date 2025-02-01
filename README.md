@@ -539,6 +539,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -557,6 +558,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
