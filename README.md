@@ -45,6 +45,7 @@
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -548,6 +549,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1666-make-the-string-great) |
@@ -558,6 +560,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Queue
 |  |
