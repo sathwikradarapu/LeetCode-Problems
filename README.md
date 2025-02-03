@@ -547,6 +547,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
@@ -628,6 +629,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -646,4 +648,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
