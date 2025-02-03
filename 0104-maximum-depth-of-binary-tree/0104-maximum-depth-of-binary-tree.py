@@ -16,8 +16,8 @@ class Solution:
             if not root:
                 return
             else:
-                ans = max(ans, level)  # Update the max depth
                 dfs(root.left, level + 1)
+                ans = max(ans, level)
                 dfs(root.right, level + 1)
         dfs(root, 1)
         return ans
