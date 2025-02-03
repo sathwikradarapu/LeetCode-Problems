@@ -7,17 +7,15 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
-            return 0  # Return 0 if the tree is empty
-        
-        ans = float("-inf")  # Initialize ans with negative infinity
-
-        def dfs(root, level):
-            nonlocal ans
+            return 0
+        res=float("-inf")
+        def fun(root,level):
+            nonlocal res
             if not root:
-                return
+                return 
             else:
-                dfs(root.left, level + 1)
-                ans = max(ans, level)
-                dfs(root.right, level + 1)
-        dfs(root, 1)
-        return ans
+                fun(root.left,level+1)
+                res=max(res,level)
+                fun(root.right,level+1)
+        fun(root,1)
+        return res
