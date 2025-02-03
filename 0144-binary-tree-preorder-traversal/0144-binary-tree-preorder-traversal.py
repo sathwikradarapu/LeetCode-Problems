@@ -16,3 +16,5 @@ class Solution:
                 preorder(root.right)
         preorder(root)
         return res
+
+        
