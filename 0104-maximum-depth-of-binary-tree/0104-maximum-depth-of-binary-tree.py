@@ -15,9 +15,9 @@ class Solution:
             nonlocal ans
             if not root:
                 return
-            ans = max(ans, level)  # Update the max depth
-            dfs(root.left, level + 1)
-            dfs(root.right, level + 1)
-        
+            else:
+                ans = max(ans, level)  # Update the max depth
+                dfs(root.left, level + 1)
+                dfs(root.right, level + 1)
         dfs(root, 1)
         return ans
