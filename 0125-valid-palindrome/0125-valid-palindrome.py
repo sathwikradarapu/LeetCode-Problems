@@ -3,9 +3,9 @@ class Solution:
         i = 0
         j = len(s) - 1
         while i < j:
-            if s[i].isalnum()==False:
+            if not s[i].isalnum():
                 i += 1
-            elif s[j].isalnum()==False:
+            elif not s[j].isalnum():
                 j -= 1
             else:
                 if s[i].lower() == s[j].lower():
