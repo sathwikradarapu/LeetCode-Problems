@@ -102,6 +102,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2350-find-closest-number-to-zero](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2478-longest-nice-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2486-most-frequent-even-element) |
