@@ -145,6 +145,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -312,6 +313,7 @@
 | [0344-reverse-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -418,6 +420,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
