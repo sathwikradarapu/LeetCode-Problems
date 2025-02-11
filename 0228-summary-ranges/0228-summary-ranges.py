@@ -27,6 +27,6 @@ class Solution:
             if len(range_list) == 1:
                 formatted_ranges.append(str(range_list[0]))  # Single number
             else:
-                formatted_ranges.append(f"{range_list[0]}->{range_list[-1]}")  # Range
+                formatted_ranges.append(str(range_list[0]) + "->" + str(range_list[-1]))  # Range
 
         return formatted_ranges
