@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
@@ -480,6 +481,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
@@ -497,6 +499,7 @@
 | [0012-integer-to-roman](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
