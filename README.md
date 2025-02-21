@@ -51,6 +51,7 @@
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1708-design-parking-system) |
@@ -579,6 +581,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
