@@ -1,9 +1,16 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        hashset = set()
-        while head:
-            if head in hashset:  # Check if the node itself is in the set
+        hashset=set()
+        curr=head
+        while curr:
+            if curr in hashset:
                 return True
-            hashset.add(head)  # Add the node to the set
-            head = head.next
+            hashset.add(curr)
+            curr=curr.next
         return False
