@@ -3,7 +3,7 @@ class Solution:
         l=0
         n=len(nums)
         temp=0
-        ans=0
+        ans=float("-inf")
         for r in range(n):
             if nums[r]==0:
                 temp+=1
