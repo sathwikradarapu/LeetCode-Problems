@@ -1,17 +1,20 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        prefix=1
-        suffix=1
         length=len(nums)
+        prefix=[0]*length
+        suffix=[0]*length
+        prefix_number=1
+        suffix_number=1
         max_product=float("-inf")
         for index in range(length):
-            #if 0 occurs then considering new sub array
-            if(prefix==0):
-                prefix=1
-            #if 0 occurs then considering new sub array
-            if(suffix==0):
-                suffix=1
-            prefix*=nums[index]
-            suffix*=nums[length-index-1]
-            max_product=max(max_product,max(prefix,suffix))
+            if prefix_number==0:
+                prefix_number=1
+            prefix_number=prefix_number*nums[index]
+            prefix[index]=prefix_number
+        for index in range(length-1,-1,-1):
+            if suffix_number==0:
+                suffix_number=1
+            suffix_number=suffix_number*nums[index]
+            suffix[index]=suffix_number
+        max_product=max(max(prefix),max(suffix))
         return max_product
