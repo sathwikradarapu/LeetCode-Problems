@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -440,6 +441,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
