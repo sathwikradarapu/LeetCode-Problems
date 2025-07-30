@@ -1,16 +1,23 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        i = 0
-        j = len(s) - 1
-        while i < j:
-            if not s[i].isalnum():
-                i += 1
-            elif not s[j].isalnum():
-                j -= 1
+        def palindrome(s, l, r):
+            nonlocal ans
+            
+            if l >= r:
+                return
             else:
-                if s[i].lower() == s[j].lower():
-                    i+=1
-                    j-=1
+                if not s[l].isalnum():
+                    palindrome(s, l + 1, r)
+                elif not s[r].isalnum():
+                    palindrome(s, l, r - 1)
                 else:
-                    return False
-        return True
+                    if s[l].lower() == s[r].lower():
+                        palindrome(s, l + 1, r - 1)
+                    else:
+                        ans = False
+                        return
+        l = 0
+        r = len(s) - 1
+        ans = True
+        palindrome(s, l, r)
+        return ans
