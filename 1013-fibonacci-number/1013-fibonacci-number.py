@@ -1,16 +1,21 @@
 class Solution:
     def fib(self, n: int) -> int:
+        def fibonacci(n):
+            nonlocal a,b
+            if n<=0:
+                return 
+            elif n==1:
+                return 
+            else:
+                a,b=b,a+b
+                n=n-1
+                fibonacci(n)
+        a=0
+        b=1
         if n<=0:
             return 0
+        elif n==1:
+            return 1
         else:
-            a=[0,1]
-            if n==1:
-                return a[1]
-            elif n==2:
-                return a[0]+a[1]
-            else:
-                m=n-len(a)
-                for i in range(m):
-                    b=a[-1]+a[-2]
-                    a.append(b)
-                return a[n-1]+a[n-2]
+            fibonacci(n)
+            return b
