@@ -1,22 +1,22 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        def palindrome(s,l,r):
+        def innerFunction(l,r,s):
             nonlocal ans
             if l>=r:
                 return
             else:
                 if not s[l].isalnum():
-                    palindrome(s,l+1,r)
+                    innerFunction(l+1,r,s)
                 elif not s[r].isalnum():
-                    palindrome(s,l,r-1)
+                    innerFunction(l,r-1,s)
                 else:
                     if s[l].lower()==s[r].lower():
-                        palindrome(s,l+1,r-1)
+                        innerFunction(l+1,r-1,s)
                     else:
                         ans=False
                         return
         l=0
         r=len(s)-1
         ans=True
-        palindrome(s,l,r)
+        innerFunction(l,r,s)
         return ans
