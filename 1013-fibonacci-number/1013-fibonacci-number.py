@@ -8,7 +8,7 @@ class Solution:
                 return 
             else:
                 a,b=b,a+b
-                n=n-1
+                n-=1
                 fibonacci(n)
         a=0
         b=1
