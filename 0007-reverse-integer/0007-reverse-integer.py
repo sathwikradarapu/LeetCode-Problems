@@ -6,5 +6,5 @@ class Solution:
         if x<0:
             y=-y
         if y<(-2**31) or y>(2**31-1):
-            return 0
+            y=0
         return y
