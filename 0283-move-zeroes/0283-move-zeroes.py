@@ -5,9 +5,9 @@ class Solution:
         length=len(nums)
         while right<length:
             if nums[right]!=0:
-                temp=nums[left]
-                nums[left]=nums[right]
-                nums[right]=temp
+                temp=nums[right]
+                nums[right]=nums[left]
+                nums[left]=temp
                 left+=1
             right+=1
         
