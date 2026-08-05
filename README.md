@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -276,6 +277,7 @@
 | [0018-4sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -313,6 +315,7 @@
 | [0027-remove-element](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -741,4 +744,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
