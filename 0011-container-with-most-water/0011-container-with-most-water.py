@@ -5,11 +5,13 @@ class Solution:
         right=length-1
         max_area=float("-inf")
         while left<right:
-            hei=min(height[left],height[right])
-            wid=right-left
-            area=hei*wid
-            max_area=max(area,max_area)
-            if height[left]<=height[right]:
+            height_left=height[left]
+            height_right=height[right]
+            min_height=min(height_left,height_right)
+            width=right-left
+            area=min_height*width
+            max_area=max(max_area,area)
+            if height_left<=height_right:
                 left+=1
             else:
                 right-=1
