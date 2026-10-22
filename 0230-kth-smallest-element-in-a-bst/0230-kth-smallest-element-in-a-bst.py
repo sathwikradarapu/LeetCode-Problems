@@ -1,13 +1,12 @@
 class Solution:
     def kthSmallest(self, root, k):
-        stack=[]
-        while root or stack:
-            while root:
-                stack.append(root)
-                root=root.left
-            root=stack.pop()
-            k-=1
-            if k==0:
-                return root.val
-            else:
-                root=root.right
+        result = []
+
+        def inorder(root):
+            if root:
+                inorder(root.left)
+                result.append(root.val)
+                inorder(root.right)
+
+        inorder(root)
+        return result[k - 1]
