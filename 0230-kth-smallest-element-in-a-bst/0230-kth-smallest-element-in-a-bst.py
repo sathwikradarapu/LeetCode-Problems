@@ -1,5 +1,6 @@
 class Solution:
     def kthSmallest(self, root, k):
+        #optimal
         stack=[]
         while root or stack:
             while root:
