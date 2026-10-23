@@ -52,6 +52,7 @@
 | [0455-assign-cookies](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -235,6 +236,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
@@ -500,6 +502,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
