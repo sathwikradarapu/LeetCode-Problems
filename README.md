@@ -18,6 +18,7 @@
 | [0053-maximum-subarray](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
