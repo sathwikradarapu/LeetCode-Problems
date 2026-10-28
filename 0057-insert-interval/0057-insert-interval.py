@@ -1,5 +1,6 @@
 class Solution:
     def insert(self, intervals: list[list[int]], newInterval: list[int]) -> list[list[int]]:
+        #optimal
         length=len(intervals)
         result=[]
         index=0
