@@ -7,8 +7,9 @@ class Solution:
         #optimal
         import heapq
         heap=[]
-        for num in nums:
-            heapq.heappush(heap,num)
-            if len(heap)>k:
+        for number in nums:
+            heapq.heappush(heap,number)
+            length=len(heap)
+            if length>k:
                 heapq.heappop(heap)
         return heap[0]
