@@ -768,4 +768,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
