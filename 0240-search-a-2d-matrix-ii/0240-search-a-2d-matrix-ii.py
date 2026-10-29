@@ -4,6 +4,7 @@ class Solution:
         length=len(matrix)
         for index in range(length):
             row=matrix[index]
-            if target in row:
-                return True
+            for item in row:
+                if item==target:
+                    return True
         return False
