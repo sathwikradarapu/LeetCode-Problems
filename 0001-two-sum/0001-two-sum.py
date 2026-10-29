@@ -1,6 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        #bruteforce
+        '''#bruteforce
         length=len(nums)
         for index1 in range(length-1):
             for index2 in range(index1+1,length):
@@ -8,5 +8,17 @@ class Solution(object):
                 number2=nums[index2]
                 if number1+number2==target:
                     return [index1,index2]
+        return -1'''
+
+        #optimise
+        hash_map={}
+        length=len(nums)
+        for index in range(length):
+            number=nums[index]
+            search=target-number
+            if search in hash_map:
+                return [index,hash_map[search]]
+            else:
+                hash_map[number]=index
         return -1
         
