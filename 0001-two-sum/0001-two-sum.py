@@ -1,22 +1,12 @@
-class Solution:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
-        '''#bruteforce
+class Solution(object):
+    def twoSum(self, nums, target):
+        #bruteforce
         length=len(nums)
         for index1 in range(length-1):
             for index2 in range(index1+1,length):
                 number1=nums[index1]
                 number2=nums[index2]
-                result=number1+number2
-                if result==target:
-                    return [index1,index2]'''
+                if number1+number2==target:
+                    return [index1,index2]
+        return -1
         
-        #optimal
-        length=len(nums)
-        hash_map={}
-        for index in range(length):
-            number=nums[index]
-            search=target-number
-            if search in hash_map:
-                return [index,hash_map[search]]
-            else:
-                hash_map[number]=index
