@@ -7,9 +7,7 @@ class Solution:
                 return index
         return -1'''
 
-        #mini_element = min(nums)
-        #mini_element_index = nums.index(mini_element)
-
+        #optimal
         left=0
         right=len(nums)-1
         while left<right:
