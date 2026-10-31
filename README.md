@@ -73,6 +73,7 @@
 | [0940-fruit-into-baskets](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -299,6 +300,7 @@
 | [0561-array-partition](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -430,6 +432,7 @@
 | [0239-sliding-window-maximum](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -477,6 +480,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +511,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -556,6 +561,7 @@
 | [0231-power-of-two](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1013-fibonacci-number](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sathwikradarapu/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -779,4 +785,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sathwikradarapu/LeetCode-Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
